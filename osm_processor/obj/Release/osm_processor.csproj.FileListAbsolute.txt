@@ -1,0 +1,3 @@
+F:\Projects\osm\osm_processor\bin\Release\osm.exe
+F:\Projects\osm\osm_processor\obj\Release\osm_processor.csprojResolveAssemblyReference.cache
+F:\Projects\osm\osm_processor\obj\Release\osm.exe

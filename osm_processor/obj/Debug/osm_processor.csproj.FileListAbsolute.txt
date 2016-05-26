@@ -1,0 +1,5 @@
+F:\Projects\osm\osm_processor\obj\Debug\osm_processor.csprojResolveAssemblyReference.cache
+F:\Projects\osm\osm_processor\bin\Debug\osm.exe
+F:\Projects\osm\osm_processor\bin\Debug\osm.pdb
+F:\Projects\osm\osm_processor\obj\Debug\osm.exe
+F:\Projects\osm\osm_processor\obj\Debug\osm.pdb
